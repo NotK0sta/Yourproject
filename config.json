@@ -1,0 +1,6 @@
+{
+	"ip":"nebojsasavakosta.aternos.me",
+	"port": "25565",
+	"name": "AFKbot",
+	"auto-night-skip":"false"
+}
